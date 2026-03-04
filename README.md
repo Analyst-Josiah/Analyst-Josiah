@@ -11,8 +11,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Analyst-Josiah/Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Analyst-Josiah/Detection-Lab">Detection Lab</a>|
 
 ## Tools
 
@@ -42,5 +42,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Analyst-Josiah/Detection-Lab">Detection Lab</a>
 
