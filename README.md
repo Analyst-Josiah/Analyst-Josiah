@@ -37,7 +37,7 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<a href="https://www.coursera.org/verify/professional-cert/16AXHN0DHW5J"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-CC%20-2D7D32?&style=for-the-badge&logo=isc2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
