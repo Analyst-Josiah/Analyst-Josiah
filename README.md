@@ -1,18 +1,18 @@
-# Hello, I'm Josiah
+# Hi, I'm Josiah
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m an emerging IT profesional with a strong passion for technology and a commitment to tackling complex challenges with analytical thinking and innovative solutions
+I’m an emerging IT profesional with a strong passion for technology and a commitment to tackling complex challenges with analytical thinking and innovative solutions.
 
 ## Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has led me to develop a passion for Cybersecurity. Evolving as an adept Blue Teamer, I am specifically aiming to join a Security Operations Center (SOC) as an Incident Responder and Threat Analyst.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Analyst-Josiah/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Analyst-Josiah/Detection-Lab">Detection Lab</a>|
+
 
 ## Tools
 
@@ -37,8 +37,9 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-CC%20-2D7D32?&style=for-the-badge&logo=isc2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
